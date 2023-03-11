@@ -15,7 +15,7 @@ Currently we are building a new search service, OHSearch, to help users find the
 - Backend Coding
 - DevOps
 
-To find out more head over to the contributing section of the project's repository.
+To find out more head over to the [contributing section](https://github.com/trailkeepersoforegon/ohsearch/blob/main/README.md#contribute) of the project's repository.
 
 ### Trail Stewardship
 Volunteer opportunities are open to anyone and no particular skills are required. [Join a Trail Party](https://trailkeepersoforegon.org/events/) to see our calendar of monthly events, get involved with our [Ambassadors program](https://trailkeepersoforegon.org/trailambassadors/) & hit [Trailkeepers University](https://trailkeepersoforegon.org/tk-u/) to learn about great training opportunities.
